@@ -19,7 +19,7 @@
         if (candycrushLvl <= 0) {
             return;
         }
-        if (activityLevel === "Only seating and eating chips") {
+        if (activityLevel === "Only sitting around and eating chips") {
             activityLevel = 3;
         }
         if (activityLevel === "Getting up and walking to the fridge") {
@@ -50,7 +50,7 @@
             <label class="input-label" for="iActValue">Activity Level</label>
             <select class="input-field" bind:value={activityLevel}>
                 <option selected="selected" name="0"
-                    >Only seating and eating chips</option
+                    >Only sitting around and eating chips</option
                 >
                 <option selected="selected" name="1"
                     >Getting up and walking to the fridge</option
