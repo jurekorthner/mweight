@@ -77,7 +77,6 @@
         </div>
     </div>
 </div>
-<p class="cc">Copyright 2022 Jurek Orthner</p>
 <div id="result" class="main">
     <div id="row">
         <h1>Holy shit your mom is a motherfucking CHONKER!</h1>
@@ -94,8 +93,6 @@
         </div>
     </div>
 </div>
-<p class="cc">Copyright 2022 Jurek Orthner</p>
-
 <style>
     .input-field {
         font-size: 1.5rem;
